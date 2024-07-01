@@ -1,0 +1,25 @@
+
+.body{
+    padding: 0;
+
+}
+
+.titulo1 {
+    padding: 50px;
+    font-size: 20px;
+    background-color: #345356;
+}
+.content {
+    padding: 400px;
+    font-size: 30px;
+    background-color: #688905;
+}
+.rodape {
+    padding: 100px;
+    background-color: #782356;
+    font-size: 20px;
+}
+ul {
+    justify-content: left;
+    color: #111;
+}
